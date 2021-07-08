@@ -5,7 +5,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/DJR07/terminal[1].mp3
 clear
-echo -e "Created For \e[5mYahye DJR07 Members"
+echo -e "Created For \e[5mDJR07 Members"
 echo "----------------------------" | lolcat
 
 echo "
