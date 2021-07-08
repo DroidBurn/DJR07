@@ -15,7 +15,7 @@ chmod +x *
 sh install.sh
 exit
 ```
-### One command installation :octocat:
+### Termux installation :octocat:
 ```
 apt update && pkg upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/DroidBurn/DJR07 && cd DJR07 && chmod +x * && ./install.sh
 ```
