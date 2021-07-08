@@ -1,4 +1,4 @@
-# Termux interface Qurxin 
+# Termux interface DJR07 
 
 <img src="/f.jpg" >
 
