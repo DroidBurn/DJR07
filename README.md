@@ -10,14 +10,14 @@ apt update && upgrade -y
 pkg install git python mpv figlet -y
 pip install lolcat
 git clone https://github.com/DroidBurn/DJR07
-cd qurxin
+cd DJR07
 chmod +x *
 sh install.sh
 exit
 ```
 ### One command installation :octocat:
 ```
-apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/DroidBurn/DJR07 && cd qurxin && chmod +x * && ./install.sh
+apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/DroidBurn/DJR07 && cd DJR07 && chmod +x * && ./install.sh
 ```
 ## screen shot
 
@@ -25,7 +25,7 @@ apt update && upgrade -y && apt install git -y && pkg install mpv figlet python 
 
 ## [-] How to remove :electron:
 ```
-cd qurxin
+cd DJR07
 
 bash rvt.sh
 ```
